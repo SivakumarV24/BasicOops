@@ -1,0 +1,12 @@
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.deps.json
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\bin\Debug\net7.0\CollegeDetails.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.csproj.AssemblyReference.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.AssemblyInfoInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.AssemblyInfo.cs
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.csproj.CoreCompileInputs.cache
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\refint\CollegeDetails.dll
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\CollegeDetails.pdb
+C:\Users\SivakumarVairamuthu\OneDrive - Syncfusion\Desktop\AssemblyReference\CollegeDetails\obj\Debug\net7.0\ref\CollegeDetails.dll
